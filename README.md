@@ -1,4 +1,4 @@
-# music player
+# musicplayer
 A recreation of a simple music player.
 
 # Preview
